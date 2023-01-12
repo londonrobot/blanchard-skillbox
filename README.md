@@ -1,4 +1,4 @@
 # blanchard-skillbox
-graduate work on layout
+graduate work on layoutt
 
 https://londonrobot.github.io/blanchard-skillbox/
